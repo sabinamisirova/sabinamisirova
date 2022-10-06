@@ -1,0 +1,16 @@
+C:\Users\Sabina\source\repos\Home Work 2\bin\Debug\net5.0\Home Work 2.exe
+C:\Users\Sabina\source\repos\Home Work 2\bin\Debug\net5.0\Home Work 2.deps.json
+C:\Users\Sabina\source\repos\Home Work 2\bin\Debug\net5.0\Home Work 2.runtimeconfig.json
+C:\Users\Sabina\source\repos\Home Work 2\bin\Debug\net5.0\Home Work 2.runtimeconfig.dev.json
+C:\Users\Sabina\source\repos\Home Work 2\bin\Debug\net5.0\Home Work 2.dll
+C:\Users\Sabina\source\repos\Home Work 2\bin\Debug\net5.0\ref\Home Work 2.dll
+C:\Users\Sabina\source\repos\Home Work 2\bin\Debug\net5.0\Home Work 2.pdb
+C:\Users\Sabina\source\repos\Home Work 2\obj\Debug\net5.0\Home Work 2.csproj.AssemblyReference.cache
+C:\Users\Sabina\source\repos\Home Work 2\obj\Debug\net5.0\Home Work 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sabina\source\repos\Home Work 2\obj\Debug\net5.0\Home Work 2.AssemblyInfoInputs.cache
+C:\Users\Sabina\source\repos\Home Work 2\obj\Debug\net5.0\Home Work 2.AssemblyInfo.cs
+C:\Users\Sabina\source\repos\Home Work 2\obj\Debug\net5.0\Home Work 2.csproj.CoreCompileInputs.cache
+C:\Users\Sabina\source\repos\Home Work 2\obj\Debug\net5.0\Home Work 2.dll
+C:\Users\Sabina\source\repos\Home Work 2\obj\Debug\net5.0\ref\Home Work 2.dll
+C:\Users\Sabina\source\repos\Home Work 2\obj\Debug\net5.0\Home Work 2.pdb
+C:\Users\Sabina\source\repos\Home Work 2\obj\Debug\net5.0\Home Work 2.genruntimeconfig.cache
